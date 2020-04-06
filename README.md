@@ -1,2 +1,14 @@
-# project-pixel-art-maker-final
- Web page to make pixel art using javascript
+# Pixel Art Maker Project
+
+## Table of Contents
+
+* [Instructions](#instructions)
+* [Contributing](#contributing)
+
+## Instructions
+
+To get started, open `designs.js` and start building out the app's functionality.
+
+## Contributing
+
+This is a project for a Udacity nanodegree
